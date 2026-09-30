@@ -1,0 +1,6 @@
+{
+  "name": "Liam Devoirs AI",
+  "description": "Assistant de devoirs propulsé par l'IA avec 3 modes et 3 niveaux de difficulté, créé par Liam (4°1).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
